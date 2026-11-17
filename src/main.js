@@ -6,7 +6,7 @@ import { setupCounter } from './counter.js'
 
 document.querySelector('#app').innerHTML = `
 <center>
-<div class="max-w-sm rounded-2xl bg-93F6E2
+<div class="max-w-sm rounded-2xl bg-blue
 p-6 shadow-lg">
 <h2 class="text-xl font-bold text-slate-900">
 สวัสดี Tailwind
